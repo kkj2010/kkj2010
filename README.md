@@ -1,4 +1,17 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋 I'm Kunju
+
+
+## Projects
+
+
+### [Shoppy](https://github.com/kkj2010/Etsy_clone/#/)
+A fullstack clone of Etsy, built on a Ruby on Rails backend and React Redux frontend
+
+### [Express](https://github.com/ArnobDam/Express/#/)
+A MERN stack group project 
+
+### [Mugunghwa](https://github.com/kkj2010/Javascript-Project/)
+A Vanila javascript browser game based on Squid Game’s “Red light, Green light” game.
 ## Programming Tools:
 
 <p>
