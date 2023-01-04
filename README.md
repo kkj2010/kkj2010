@@ -1,9 +1,14 @@
-### Hi there 👋 I'm Kunju
+### Hello, I'm Kunju  👋
 
+My name is Kunju. I'm a full stack software engineer and web developer based in New York City. I have a passion for putting practical experiences and crazy ideas into accessible technology for everyone.
+
+- 🔭 I’m currently working on my personal projects.
+- 🌱 I’m currently learning Typescript and React.native.
+- 💬 Ask me about something to do in NYC
+- 📫 How to reach me: Email, Linkedin or AngelList
+- ⚡ Fun fact: A former production manager in the fashion industry who is eager to learn new, cool software technologies!
 
 ## Projects
-
-
 ### [Shoppy](https://github.com/kkj2010/Etsy_clone/#/)
 A fullstack clone of Etsy, built on a Ruby on Rails backend and React Redux frontend
 
