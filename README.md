@@ -12,7 +12,7 @@ My name is Kunju. I'm a full stack software engineer and web developer based in 
 ### [Shoppy](https://github.com/kkj2010/Etsy_clone/#/)
 A fullstack clone of Etsy, built on a Ruby on Rails backend and React Redux frontend
 
-### [Express](https://github.com/ArnobDam/Express/#/)
+### [Express](https://github.com/kkj2010/Express/#/)
 A MERN stack group project 
 
 ### [Mugunghwa](https://github.com/kkj2010/Javascript-Project/)
