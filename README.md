@@ -28,6 +28,7 @@ A Vanila javascript browser game based on Squid Game’s “Red light, Green lig
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white height="30">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="28">
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="28">
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white height="30">
 </p>
 
 ## Frameworks & Libraries
@@ -35,7 +36,6 @@ A Vanila javascript browser game based on Squid Game’s “Red light, Green lig
 <p>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB height="30">
    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB height="30">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white height="30">
 </p>
 
 ## Databases & Cloud Hosting
