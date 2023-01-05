@@ -17,7 +17,7 @@ A MERN stack group project
 
 ### [Mugunghwa](https://github.com/kkj2010/Mugunghwa/)
 A Vanila javascript browser game based on Squid Game’s “Red light, Green light” game.
-## Programming Tools:
+## Programming Tools
 
 <p>
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white height="30">
@@ -30,7 +30,7 @@ A Vanila javascript browser game based on Squid Game’s “Red light, Green lig
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="28">
 </p>
 
-## Frameworks & Libraries:
+## Frameworks & Libraries
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB height="30">
@@ -38,7 +38,7 @@ A Vanila javascript browser game based on Squid Game’s “Red light, Green lig
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white height="30">
 </p>
 
-## Databases & Cloud Hosting:
+## Databases & Cloud Hosting
 
 <p>
   <img alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height=28">
@@ -58,7 +58,7 @@ A Vanila javascript browser game based on Squid Game’s “Red light, Green lig
       <img align="left" alt="Andrea's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa-dg" />
   </details> -->                                                                                                                                                                                                                                                                 
                                                                                                                                       
-## Contact Me:
+## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjukim0210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjukim/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/kunju-kim)
