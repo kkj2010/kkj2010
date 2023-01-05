@@ -15,7 +15,7 @@ A fullstack clone of Etsy, built on a Ruby on Rails backend and React Redux fron
 ### [Express](https://github.com/kkj2010/Express/#/)
 A MERN stack group project 
 
-### [Mugunghwa](https://github.com/kkj2010/Javascript-Project/)
+### [Mugunghwa](https://github.com/kkj2010/Mugunghwa/)
 A Vanila javascript browser game based on Squid Game’s “Red light, Green light” game.
 ## Programming Tools:
 
