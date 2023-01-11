@@ -10,13 +10,13 @@ My name is Kunju. I'm a full stack software engineer and web developer based in 
 
 ## Projects
 ### [Shoppy](https://github.com/kkj2010/Etsy_clone/#/)
-A fullstack clone of Etsy, built on a Ruby on Rails backend and React Redux frontend
+A fullstack clone of Etsy - using: React/Redux, Ruby on Rails, PostgreSQL, AWS, HTML5, CSS3
 
 ### [Express](https://github.com/kkj2010/Express/#/)
-A MERN stack group project 
+A MERN stack group project- Point of sale system built upon efficiency, ease of access and sleek visuals - using: React/Redux, Express, MongoDB, Javascript, HTML5, CSS3
 
 ### [Mugunghwa](https://github.com/kkj2010/Mugunghwa/)
-A Vanila javascript browser game based on Squid Game’s “Red light, Green light” game.
+A Vanila javascript browser game based on Squid Game’s “Red light, Green light” game - using: Javascript, HTML5, CSS3
 ## Programming Tools
 
 <p>
