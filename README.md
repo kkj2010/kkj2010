@@ -1,6 +1,6 @@
 ### Hello, I'm Kunju  👋
 
-My name is Kunju. I'm a full stack software engineer and web developer based in New York City. 
+I'm a full stack software engineer and web developer based in New York City. 
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning Typescript and React.native.
