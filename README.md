@@ -62,7 +62,7 @@ A Vanila javascript browser game based on Squid Game’s “Red light, Green lig
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjukim0210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjukim/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/kunju-kim)
-  <!--<a href = "https://63d181a89f0a442865ae8e19--luxury-sundae-97e759.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>-->                                                                                                                                  
+  <!--<a href = "https://kunjukim.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>-->                                                                                                                                  
                                                                                                                                   
 <!--**kkj2010/kkj2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
