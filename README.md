@@ -3,11 +3,10 @@
 I'm a full stack software engineer and web developer based in New York City. 
 
 - 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning Typescript and React.native.
 - 💬 Ask me about something to do in NYC
 - 📫 How to reach me: Email, Linkedin or AngelList
 - ⚡ Fun fact: A former production manager in the fashion industry who is eager to learn new, cool software technologies!
-
+<!-- - 🌱 I’m currently learning Typescript and React.native. -->
 ## Projects
 ### [Shoppy](https://github.com/kkj2010/Etsy_clone/#/)
 A fullstack clone of Etsy - using: React/Redux, Ruby on Rails, PostgreSQL, AWS, HTML5, CSS3
