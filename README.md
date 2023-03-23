@@ -7,6 +7,7 @@ I'm a full stack software engineer and web developer based in New York City.
 - 📫 How to reach me: Email, Linkedin or AngelList
 - ⚡ Fun fact: A former production manager in the fashion industry who is eager to learn new, cool software technologies!
 <!-- - 🌱 I’m currently learning Typescript and React.native. -->
+
 ## Projects
 ### [Shoppy](https://github.com/kkj2010/Etsy_clone/#/)
 A fullstack clone of Etsy - using: React/Redux, Ruby on Rails, PostgreSQL, AWS, HTML5, CSS3
@@ -16,6 +17,10 @@ A MERN stack group project- Point of sale system built upon efficiency, ease of 
 
 ### [Mugunghwa](https://github.com/kkj2010/Mugunghwa/)
 A Vanila javascript browser game based on Squid Game’s “Red light, Green light” game - using: Javascript, HTML5, CSS3
+
+### [CarrotandBug](https://github.com/kkj2010/carrotandbug/)
+A Vanila javascript browser game - using: Javascript, HTML5, CSS3
+
 ## Programming Tools
 
 <p>
