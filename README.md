@@ -6,7 +6,7 @@ I'm a full stack software engineer and web developer based in New York City.
 - 💬 Ask me about something to do in NYC
 - 📫 How to reach me: Email, Linkedin or AngelList
 - ⚡ Fun fact: A former production manager in the fashion industry who is eager to learn new, cool software technologies!
-<!-- - 🌱 I’m currently learning Typescript and React.native. -->
+- 🌱 I’m currently learning Phython
 
 ## Projects
 ### [Shoppy](https://github.com/kkj2010/Etsy_clone/#/)
