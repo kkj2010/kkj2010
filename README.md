@@ -1,4 +1,4 @@
-### Hello, I'm Kunju  👋
+### Hello, I'm Rachel Kunju Kim  👋
 
 I'm a full stack software engineer and web developer based in New York City. 
 
