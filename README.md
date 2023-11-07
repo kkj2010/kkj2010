@@ -2,7 +2,7 @@
 
 I'm a full stack software engineer based in New York City. 
 
-- 🔭 I’m currently working on my personal projects & learning new languages
+- 🔭 I’m currently working on projects & learning new languages
 - 💬 Ask me about something to do in NYC
 - 📫 How to reach me: Email, Linkedin or AngelList
 - ⚡ Fun fact: A former production manager in the fashion industry who is eager to learn new, cool software technologies!
